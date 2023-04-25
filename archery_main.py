@@ -1,5 +1,5 @@
 ######_____________ARCHARY PROJECT________________######
-# Author List:		[ vidya vepoori, niklesh]
+# Author List:		[ Vidya Vepoori, Nikhilesh Koripelly]
 # Filename:			multi_touch.py
 
 import pygame
