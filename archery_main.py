@@ -1,6 +1,6 @@
 ######_____________ARCHARY PROJECT________________######
 # Author List:		[ Vidya Vepoori, Nikhilesh Koripelly]
-# Filename:			multi_touch.py
+# Filename:			archery_main.py
 
 import pygame
 
