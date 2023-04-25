@@ -1,6 +1,6 @@
 ###### _____________ARCHARY PROJECT________________######
-# Author List:		[ vidya vepoori, niklesh]
-# Filename:			archery_2.py
+# Author List:		[ Vidya Vepoori, Nikhilesh Koripelly ]
+# Filename:			archery_01.py
 
 # import lib
 import pygame
