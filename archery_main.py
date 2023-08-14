@@ -1,6 +1,7 @@
 ######_____________ARCHARY PROJECT________________######
 # Author List:		[ Vidya Vepoori, Nikhilesh Koripelly]
 # Filename:			archery_main.py
+# Desc : It detects only touches made on frame.
 
 import pygame
 
