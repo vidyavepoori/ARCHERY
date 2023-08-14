@@ -1,6 +1,7 @@
 ###### _____________ARCHARY PROJECT________________######
 # Author List:		[ Vidya Vepoori, Nikhilesh Koripelly ]
 # Filename:			archery_01.py
+# Desc : It dectect mouse touches and display them.
 
 # import lib
 import pygame
