@@ -1,10 +1,10 @@
 # Archery Scoring System
 
-## 🎯 Project Overview
+## Project Overview
 
 This project focuses on developing an **automated archery scoring system** that accurately detects and displays arrow impact positions and scores in real time.
 
-## 🔧 System Description
+## System Description
 
 The system includes:
 
@@ -15,7 +15,7 @@ The system includes:
   - Calculates the score based on standard archery scoring zones.
   - Visualizes each shot on a digital display.
 
-## 📌 Key Features
+## Key Features
 
 - Real-time shot detection and scoring  
 - Visual feedback with impact mapping  
@@ -23,28 +23,28 @@ The system includes:
 - Lightweight and portable hardware setup  
 - Accurate scoring with minimal manual intervention
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - Embedded systems (e.g., Arduino, Raspberry Pi)  
 - IR/laser/pressure sensors (depending on design)  
 - Data communication via USB/Wi-Fi  
 - Front-end dashboard (Python GUI / Web App)
 
-## ✅ Applications
+## Applications
 
 - Archery practice and performance tracking  
 - Scoring system for competitive matches  
 - Coaching tool for impact analysis  
 - Gamified archery experiences
 
-## 📈 Future Enhancements
+## Future Enhancements
 
 - Session recording and analytics  
 - Multi-arrow trajectory tracking  
 - Integration with mobile devices and cloud platforms  
 - Voice feedback and scoreboard projection
 
-## 📽️ Demo Video
+## Demo Video
 
 https://github.com/user-attachments/assets/92c9940a-de19-41f9-8245-995951113065
 
