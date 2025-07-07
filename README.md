@@ -28,7 +28,7 @@ The system includes:
 - Embedded systems (e.g., Arduino, Raspberry Pi)  
 - IR/laser/pressure sensors (depending on design)  
 - Data communication via USB/Wi-Fi  
-- Front-end dashboard (Python GUI / Web App)
+- Front-end dashboard (Python GUI )
 
 ## Applications
 
